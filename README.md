@@ -1,1 +1,3 @@
-# research-soa-patterns-for-microservices
+# Analyzing the Relevance of SOA Patterns for Microservice-Based Systems
+
+This repository contains data used in a qualitative analysis of 118 SOA patterns from Erl ("SOA Design Patterns", "SOA with REST") and Rotem-Gal-Oz ("SOA Patterns"). The patterns were compared with 5 Microservices principles and rated either **fully applicable**, **partially applicable**, or **not applicable**. The data and analysis can be found in soa-pattern-analysis.xlsx.
