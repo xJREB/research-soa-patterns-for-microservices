@@ -5,4 +5,5 @@ This repository contains data used in a qualitative analysis of 118 SOA patterns
 The data and analysis can be found in [soa-pattern-analysis.xlsx](soa-pattern-analysis.xlsx).
 
 The results are discussed in more details in the following publication:
+
 Bogner, J., Zimmermann, A., Wagner, S.: Analyzing the Relevance of SOA Patterns for Microservice-Based Systems. In: Proceedings of the 10th Central European Workshop on Services and their Composition (ZEUS’18). CEUR-WS.org (2018).
